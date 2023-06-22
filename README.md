@@ -1,36 +1,7 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f5f5f5;
-            margin: 0;
-            padding: 20px;
-        }
-        
-        h1 {
-            color: #333;
-            font-size: 24px;
-        }
-        
-        p {
-            color: #666;
-            font-size: 16px;
-        }
-        
-        .container {
-            max-width: 600px;
-            margin: 0 auto;
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 4px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-    </style>
-</head>
 <body>
-    <div class="container">
+    <div>
         <h1>Shoe Store Application</h1>
         <p>A Java-based shoe store application that allows users to browse and purchase shoes from popular brands.</p>
         
