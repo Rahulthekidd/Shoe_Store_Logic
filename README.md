@@ -27,6 +27,9 @@
         
         License:
         This project is licensed under the MIT License.
+
+        Note : The data is Static and will be updated with dynamic updates in the future
+        
   
 </body>
 </html>
