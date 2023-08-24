@@ -1,8 +1,8 @@
-package Envoirmental;
+package PACKAGE_NAME;
 
 import java.util.Scanner;
 
-public class Envoirone {
+public class CLASS_NAME {
 
     // Arrays to store shoe rates and models for each brand
     static int[] nike_rates = {1200, 1600, 2044, 5504, 5503, 4000, 3500, 3000, 2800, 2870};
